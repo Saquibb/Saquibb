@@ -11,5 +11,5 @@ Hi there I am Muhammad Saquib Ur Rehman,from Pakistan :pakistan:
 - :medal_sports: Completed "2" project, Including :
 
 - - :money_with_wings:	Expense Tracker    => :link:	saqbootcampProject1.surge.sh/
-- - :money_with_wings:	Covid-19 App    => :link:  covid-19_trackingapp.surge.sh/
+- - :money_with_wings:	Covid-19 App    => :link:  covid-19trackingapp.surge.sh/
 
